@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7172b13f-bf57-4ee7-a011-fb52b91c6e5b" name="Default" comment="Delete .idea">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/horizon/img/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Jobs/Dummy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Providers/HorizonServiceProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/horizon.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/horizon/app-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/horizon/app.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/horizon/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/horizon/img/horizon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/horizon/img/sprite.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/horizon/mix-manifest.json" />
+    <list default="true" id="7172b13f-bf57-4ee7-a011-fb52b91c6e5b" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/app.php" afterPath="$PROJECT_DIR$/config/app.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/web.php" afterPath="$PROJECT_DIR$/routes/web.php" />
     </list>
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -292,7 +279,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606754497247</updated>
-      <workItem from="1606754504981" duration="1273000" />
+      <workItem from="1606754504981" duration="1354000" />
     </task>
     <task id="LOCAL-00001" summary="Delete .idea">
       <created>1606754869456</created>
@@ -301,11 +288,18 @@
       <option name="project" value="LOCAL" />
       <updated>1606754869456</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add Horizon">
+      <created>1606755855226</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606755855226</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1273000" />
+    <option name="totallyTimeSpent" value="1354000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="23" width="1920" height="1010" extended-state="6" />
@@ -358,7 +352,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Delete .idea" />
-    <option name="LAST_COMMIT_MESSAGE" value="Delete .idea" />
+    <MESSAGE value="Add Horizon" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Horizon" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
